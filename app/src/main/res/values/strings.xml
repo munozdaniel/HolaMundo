@@ -4,5 +4,8 @@
     <string name="app_name">HolaMundo</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="lblSector">Ver todos los Sectores</string>
+    <string name="btnSector">Listar Sectores</string>
+
 
 </resources>
